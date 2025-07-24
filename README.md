@@ -7,7 +7,8 @@
 ---
 
 ## 🚀 Featured Projects
-- 📈 Coffee Shop Dashboard (Excel) — Coming soon  
+
+- 📊 [Coffee Shop Sales Dashboard (Excel)](https://github.com/mdhasibstats/coffee-shop-dashboard) – A professional Excel dashboard project with raw data and visual analytics.  
 - 📊 Customer Insights Dashboard (Power BI) — Coming soon  
 - 📚 Healthcare Regression Project (Python) — Coming soon  
 - 🧪 Logistic Regression (Scikit-learn) — Coming soon  
