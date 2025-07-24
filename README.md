@@ -9,8 +9,8 @@
 ## 🚀 Featured Projects
 
 - 📊 [Coffee Shop Sales Dashboard (Excel)](https://github.com/mdhasibstats/coffee-shop-dashboard) – A professional Excel dashboard project with raw data and visual analytics.
-- 📊 [**Pima Diabetes Analysis (SPSS)**](https://github.com/mdhasibstats/pima-diabetes-spss-analysis) – A professional SPSS statistical analysis project using the Pima Indian Diabetes dataset to explore the relationship between Glucose, BMI, Age, and Diabetes status. Includes raw data, SPSS syntax, output files, and a full report with results and interpretations.
-- 📊 Customer Insights Dashboard (Power BI) — Coming soon  
+- 📊 [Pima Diabetes Analysis (SPSS)](https://github.com/mdhasibstats/pima-diabetes-spss-analysis) – A professional SPSS statistical analysis project using the Pima Indian Diabetes dataset to explore the relationship between Glucose, BMI, Age, and Diabetes status. Includes raw data, SPSS syntax, output files, and a full report with results and interpretations.
+- 📊 [Sales Insights Dashboard (Power BI)](https://github.com/mdhasibstats/sales-dashboard-powerbi) — Interactive dashboard showing sales performance from 2023-2025 with KPIs, regional trends, product breakdowns and sales insights. 
 - 📚 Healthcare Regression Project (Python) — Coming soon  
 - 🧪 Logistic Regression (Scikit-learn) — Coming soon  
 
