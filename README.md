@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Md. Hasib
 
-🎓 BSc Statistics student passionate about data analysis and modeling.
-💻 Skilled in Python, Power BI, Excel, and statistical tools. 
-📊 I love turning raw data into clear insights and real-world stories.
+🎓 BSc in Statistics | Aspiring Data Analyst  
+💻 Python • Pandas • Scikit-learn • Statsmodels • Power BI • Excel • SPSS • R  
+📊 I love turning raw data into meaningful insights and real-world solutions.
 
 ---
 
