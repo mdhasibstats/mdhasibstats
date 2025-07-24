@@ -1,4 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Md. Hasib
+
+🎓 BSc Statistics student | Aspiring Data Analyst  
+💻 Python • Pandas • Scikit-learn • Scipy • Statsmodels • Power BI • Excel • SPSS • R  
+📊 I love turning raw data into clear insights and real-world stories.
+
+---
+
+## 🚀 Featured Projects
+- 📈 Coffee Shop Dashboard (Excel) — Coming soon  
+- 📊 Customer Insights Dashboard (Power BI) — Coming soon  
+- 📚 Healthcare Regression Project (Python) — Coming soon  
+- 🧪 Logistic Regression (Scikit-learn) — Coming soon  
+
+---
+
+## 🧠 Tools & Skills
+
+- Python: `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `statsmodels`
+- BI Tools: Excel, Power BI
+- Statistical Tools: SPSS, R, Stata
+- Writing: MS Word, Data Storytelling, Report Writing
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: mdhasib.stats@gmail.com  
+- 🌍 Location: Chittagong, Bangladesh  
+
 
 <!--
 **mdhasibstats/mdhasibstats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
