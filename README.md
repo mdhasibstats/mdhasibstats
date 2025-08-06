@@ -7,12 +7,11 @@
 ---
 
 ## 🚀 Featured Projects
-
+- 📚 [Predicting Heart Disease (Machine Learning)](https://github.com/mdhasibstats/heart-disease-ml-project) - A real-time, interactive web application built with Streamlit that uses multiple supervised machine learning algorithms to predict the likelihood of heart disease.
+- 📚 [Insurance Regression Project (Python-statsmodels)](https://github.com/mdhasibstats/insurance-charges-modeling-with-statsmodels) - Predicting insurance charges by fitting linear regression model, correcting model assumptions on insurance dataset using python library 'statsmodels' with a full reports and interpretations.
 - 📊 [Coffee Shop Sales Dashboard (Excel)](https://github.com/mdhasibstats/coffee-shop-dashboard) – A professional Excel dashboard project with raw data and visual analytics.
 - 📊 [Pima Diabetes Analysis (SPSS)](https://github.com/mdhasibstats/pima-diabetes-spss-analysis) – A professional SPSS statistical analysis project using the Pima Indian Diabetes dataset to explore the relationship between Glucose, BMI, Age, and Diabetes status. Includes raw data, SPSS syntax, output files, and a full report with results and interpretations.
 - 📊 [Sales Insights Dashboard (Power BI)](https://github.com/mdhasibstats/sales-dashboard-powerbi) — Interactive dashboard showing sales performance from 2023-2025 with KPIs, regional trends, product breakdowns and sales insights. 
-- 📚 [Insurance Regression Project (Python-statsmodels)](https://github.com/mdhasibstats/insurance-charges-modeling-with-statsmodels) - Predicting insurance charges by fitting linear regression model, correcting model assumptions on insurance dataset using python library 'statsmodels' with a full reports and interpretations.
-- 🧪 Logistic Regression (Scikit-learn) — Coming soon  
 
 ---
 
