@@ -7,6 +7,7 @@
 ---
 
 ## 🚀 Featured Projects
+- 📊 [Adidas US Sales Dashboard (Power BI)](https://github.com/mdhasibstats/Adidas-US-Sales-Dashboard) - An interactive Power BI dashboard analyzing Adidas US sales data (2020–2021) with key KPIs, monthly and regional sales trends, product and retailer performance, and interactive slicers for deeper insights. Includes full screenshots and professional dashboard design.
 - 📚 [Predicting Heart Disease (Machine Learning)](https://github.com/mdhasibstats/heart-disease-ml-project) - A real-time, interactive web application built with Streamlit that uses multiple supervised machine learning algorithms to predict the likelihood of heart disease.
 - 📚 [Insurance Regression Project (Python-statsmodels)](https://github.com/mdhasibstats/insurance-charges-modeling-with-statsmodels) - Predicting insurance charges by fitting linear regression model, correcting model assumptions on insurance dataset using python library 'statsmodels' with a full reports and interpretations.
 - 📊 [Coffee Shop Sales Dashboard (Excel)](https://github.com/mdhasibstats/coffee-shop-dashboard) – A professional Excel dashboard project with raw data and visual analytics.
