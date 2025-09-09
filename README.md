@@ -28,7 +28,8 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: mdhasib.stats@gmail.com  
+- 📧 Email: mdhasib.stats@gmail.com
+- 🌐 Visit my portfolio: [mdhasibstats.github.io](https://mdhasibstats.github.io/) 
 - 🌍 Location: Chittagong, Bangladesh  
 
 
